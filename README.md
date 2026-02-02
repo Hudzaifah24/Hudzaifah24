@@ -45,7 +45,7 @@ Here are some technologies that I commonly work with.
 
 <br>
 
-## 📊 My GitHub Statistics
+<!-- ## 📊 My GitHub Statistics
 
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Hudzaifah24&show_icons=true&theme=dracula&icon_color=34D399&include_all_commits=true" alt="GitHub Stats" />
@@ -55,8 +55,9 @@ Here are some technologies that I commonly work with.
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Hudzaifah24&theme=dracula" alt="GitHub Streak Stats" />
 </p>
 
-<br>
+<br> -->
 
 ---
 
 <p align="center">Made with ❤️ and a little bit of coffee</p>
+
